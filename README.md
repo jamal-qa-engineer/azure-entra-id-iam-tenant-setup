@@ -10,3 +10,11 @@ This project demonstrates the creation and initial configuration of a secure Azu
 - Microsoft Identity Platform
 - RBAC (Role-Based Access Control)
 - MFA & Conditional Access (baseline)
+
+## IAM Concepts Demonstrated
+- Identity Tenant Architecture
+- Authentication vs authorization
+- Identity lifecycle readiness
+- Least Privilege Access
+- Role Based Access Control (RBAC)
+- Zero Trust identity foundation
